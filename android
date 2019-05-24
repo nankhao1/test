@@ -1,0 +1,15 @@
+{
+    "updateUrl":"http://www.baidu.com",
+    "domainUrl":"http://tsc.gzqiaoxin.cn",
+    "versions":
+    [
+        {
+            "version":1000,
+            "status":"release"
+        },
+        {
+            "version":1001,
+            "status":"release"
+        }
+    ]
+}
